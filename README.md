@@ -1,0 +1,3 @@
+A simple script made with a friend for his research project. The file uploaded is a template and needs to be modified for your specific columns and data before use.
+# Purpose
+"field" has a binary selection of 0 and 1 where the set of elements in selection_1 was greater than the set of elements in selection_0. This script creates a new csv file with a random sample of selection_1 that equals the number of elements in selection_0.
